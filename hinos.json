@@ -1,0 +1,26 @@
+{
+  "1": {
+    "nome": "Chuvas de graça",
+    "tom": "Dó Maior",
+    "tempo": "Lento",
+    "bpm": "72",
+    "url": "/hino.html?id=1",
+    "links": {
+      "spotify": "https://open.spotify.com/search/chuvas+de+graca",
+      "apple": "https://music.apple.com/search?term=chuvas+de+graca",
+      "amazon": "https://music.amazon.com/search?query=chuvas+de+graca"
+    }
+  },
+  "2": {
+    "nome": "Texto teste",
+    "tom": "Sol Maior",
+    "tempo": "Moderado",
+    "bpm": "90",
+    "url": "/hino.html?id=2",
+    "links": {
+      "spotify": "https://open.spotify.com/search/teste+hino",
+      "apple": "https://music.apple.com/search?term=teste+hino",
+      "amazon": "https://music.amazon.com/search?query=teste+hino"
+    }
+  }
+}
