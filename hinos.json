@@ -1,10 +1,10 @@
 {
   "1": {
     "nome": "Chuvas de graça",
-    "tom": "Dó Maior",
-    "tempo": "Lento",
+    "tom": "C",
+    "tempo": "4/4",
     "bpm": "72",
-    "url": "/hino.html?id=1",
+    "url": "https://harpacristacifrada.com.br/harpa-crista-cifrada-chuvas-de-graca/",
     "links": {
       "youtube": "https://youtube.com/...",
       "letra": "/letras/chuvas.html",
@@ -14,10 +14,10 @@
   },
   "2": {
     "nome": "Louvor eterno",
-    "tom": "Ré Maior",
-    "tempo": "Rápido",
+    "tom": "D",
+    "tempo": "3\4",
     "bpm": "110",
-    "url": "/hino.html?id=2",
+    "url": "https://harpacristacifrada.com.br/harpa-crista-cifrada-hino-02-cifra/",
     "links": {
       "youtube": "https://youtube.com/...",
       "letra": "/letras/louvor.html",
@@ -26,4 +26,5 @@
     "capa": "https://harpacristacifrada.com.br/wp-content/uploads/2025/06/ac.jpg"
   }
 }
+
 
