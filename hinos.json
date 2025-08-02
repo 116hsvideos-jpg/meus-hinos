@@ -6,21 +6,23 @@
     "bpm": "72",
     "url": "/hino.html?id=1",
     "links": {
-      "spotify": "https://open.spotify.com/search/chuvas+de+graca",
-      "apple": "https://music.apple.com/search?term=chuvas+de+graca",
-      "amazon": "https://music.amazon.com/search?query=chuvas+de+graca"
-    }
+      "youtube": "https://youtube.com/...",
+      "letra": "/letras/chuvas.html",
+      "download": "/downloads/chuvas.pdf"
+    },
+    "capa": "https://seudominio.com/capas/hino1.jpg"
   },
   "2": {
-    "nome": "Texto teste",
-    "tom": "Sol Maior",
-    "tempo": "Moderado",
-    "bpm": "90",
+    "nome": "Louvor eterno",
+    "tom": "Ré Maior",
+    "tempo": "Rápido",
+    "bpm": "110",
     "url": "/hino.html?id=2",
     "links": {
-      "spotify": "https://open.spotify.com/search/teste+hino",
-      "apple": "https://music.apple.com/search?term=teste+hino",
-      "amazon": "https://music.amazon.com/search?query=teste+hino"
-    }
+      "youtube": "https://youtube.com/...",
+      "letra": "/letras/louvor.html",
+      "download": "/downloads/louvor.pdf"
+    },
+    "capa": "https://seudominio.com/capas/hino2.jpg"
   }
 }
